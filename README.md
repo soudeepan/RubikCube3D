@@ -12,7 +12,7 @@ Clone this repository to your local machine.
 
 ## Run the App
 
-Compile and run the Main.java using your preferred Java IDE or command line tools.
+Compile and run the [Main.java](RubikCube3D/src/main/java/rubik/cube/rubikcube3d/Main.java) using your preferred Java IDE or command line tools.
 
 ## Controls
 
